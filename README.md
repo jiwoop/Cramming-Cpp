@@ -1,2 +1,2 @@
 # Cramming-Cpp
- One week intense C++ practice
+## One week intense C++ practice
